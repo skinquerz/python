@@ -1,3 +1,1 @@
-# key-generator
-
-Made by: skin
+# atividades feitas em python
